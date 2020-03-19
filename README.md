@@ -1,15 +1,7 @@
 # GraphQL.js
 
 The JavaScript reference implementation for GraphQL, a query language for APIs created by Facebook.
-
-[![npm version](https://badge.fury.io/js/graphql.svg)](https://badge.fury.io/js/graphql)
-[![Build Status](https://travis-ci.org/graphql/graphql-js.svg?branch=master)](https://travis-ci.org/graphql/graphql-js?branch=master)
-[![Coverage Status](https://codecov.io/gh/graphql/graphql-js/branch/master/graph/badge.svg)](https://codecov.io/gh/graphql/graphql-js)
-
-See more complete documentation at https://graphql.org/ and
-https://graphql.org/graphql-js/.
-
-Looking for help? Find resources [from the community](https://graphql.org/community/).
+This is an extended version for the LiUGraphQL projects.
 
 ## Getting Started
 
