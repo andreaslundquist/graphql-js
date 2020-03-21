@@ -10,5 +10,6 @@ package-lock.json
 .eslintcache
 node_modules
 coverage
+dist
 benchmarkDist
 npm
